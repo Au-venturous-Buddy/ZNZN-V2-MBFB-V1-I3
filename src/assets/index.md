@@ -1,14 +1,13 @@
 ---
-title: "The Intramurals"
-show_title_on_cover: true
-date: "2019-12-11"
+title: "Kris-Kringle Bells"
+show_title_on_cover: false
+date: "2017-12-27"
 version: 2
-volume: 2
-issue: 1
+volume: 1
+issue: 3
 category: "Facebook Gallery"
-synopsis: "Get to know the favorite intramurals sports of Zene, Zeanne, and their friends!"
+synopsis: "Zene, Zeanne, and their friends celebrate their Christmas Party at their Grade 2 classroom"
 modes: [
-    {mode_name: "Original", call_at: [0, 1, 2, 3, 4, 5, 6]},
-    {mode_name: "With Deleted Scenes", call_at: [0, 1, 2, 3, 4, 5, 6, 7, 8]}
+    {mode_name: "Original", call_at: [0, 1, 2, 3]}
 ]
 ---

@@ -1,14 +1,9 @@
 ---
 language_code: "en"
 image_alt: [
-    "Zene, Zeanne, and their friends sitting together at a bench for Intramurals",
-    "Zene and Katie playing 3x3 Basketball",
-    "Dani serving a volleyball",
-    "Ilimee playing Games of the Generals",
-    "Leo playing darts",
-    "Carlo playing table tennis",
-    "Zeanne playing badminton",
-    "Bonus Intramurals class photo 1",
-    "Bonus Intramurals class photo 2"
+    "Kris-Kringle Bells Title Cover",
+    "Zene, Zeanne, and their friends playing Pinoy Henyo",
+    "Christmas Party meal of Zene and Zeanne's class",
+    "Zene, Zeanne, and their friends packing relief goods/Noche Buena packages"
 ]
 ---

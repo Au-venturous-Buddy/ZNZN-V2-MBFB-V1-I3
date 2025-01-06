@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: "The Intramurals",
+    title: "Kris-Kringle Bells",
     author: "Au-venturous Buddy"
   },
-  pathPrefix: "/ZNZN-V2-MBFB-V2-I1",
+  pathPrefix: "/ZNZN-V2-MBFB-V1-I3",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `The Intramurals`,
-        short_name: `ZNZN-V2-MBFB-V2-I1`,
+        name: `Kris-Kringle Bells`,
+        short_name: `ZNZN-V2-MBFB-V1-I3`,
         start_url: `/`,
         background_color: `#017BFF`,
         theme_color: `#017BFF`,

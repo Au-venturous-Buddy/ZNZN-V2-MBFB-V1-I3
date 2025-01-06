@@ -1,10 +1,10 @@
 {
-  "name": "znzn-v2-mbfb-v2-i1",
+  "name": "znzn-v2-mbfb-v1-i3",
   "author": "Au-venturous Buddy <auventurous.buddy@gmail.com>",
   "main": "main.js",
   "build": {
     "icon": "src/images/Zene N Zeanne V4 Logo Small.png",
-    "productName": "The Intramurals",
+    "productName": "Kris-Kringle Bells",
     "files": [
       "public/**/*",
       "main.js"
@@ -46,8 +46,8 @@
     }
   },
   "private": true,
-  "description": "Get to know the favorite intramurals sports of Zene, Zeanne, and their friends!",
-  "version": "2.2.1.0",
+  "description": "Zene, Zeanne, and their friends celebrate their Christmas Party at their Grade 2 classroom",
+  "version": "2.1.3.0",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
